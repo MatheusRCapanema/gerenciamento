@@ -28,7 +28,6 @@ Este projeto é uma aplicação Spring Boot que implementa um sistema de gerenci
 - **Spring Data JPA**
 - **H2 Database**
 - **Spring Web**
-- **Spring Security** (Inicialmente implementada e posteriormente removida)
 
 ## Como Executar
 
